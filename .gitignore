@@ -63,3 +63,5 @@ typings/
 \.idea/require-helper\.iml
 
 \.idea/workspace\.xml
+
+\.idea/vcs\.xml
