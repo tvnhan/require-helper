@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+
+\.idea/modules\.xml
+
+\.idea/require-helper\.iml
+
+\.idea/workspace\.xml
