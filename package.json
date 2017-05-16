@@ -1,0 +1,22 @@
+{
+  "name": "require-helper",
+  "version": "1.0.0",
+  "description": "This is a library that supporting node user use the require command easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvnhan/require-helper.git"
+  },
+  "keywords": [
+    "require"
+  ],
+  "author": "nhan tran <nhanltv.bd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvnhan/require-helper/issues"
+  },
+  "homepage": "https://github.com/tvnhan/require-helper#readme"
+}
